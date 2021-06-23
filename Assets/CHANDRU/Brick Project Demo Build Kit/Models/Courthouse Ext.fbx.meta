@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 9d72afc9fed9288409f9b23c8dbb0f03
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Door.L.001
+    100004: Door.R.001
+    100006: Ext_CH_01_Entrance_02
+    100008: Ext_CH__Platform_01_01
+    100010: Ext_CH__Platform_01_03
+    100012: Ext_CH_Platform_01_02
+    100014: Ext_CH_Platform_Stairs_01_01
+    100016: Ext_CH_Platform_Stairs_01_02
+    100018: Ext_CH_Platform_Stairs_01_03
+    100020: Ext_CH_Roof_01_01
+    100022: Ext_CH_Roof_01_02
+    100024: Ext_CH_Roof_01_03
+    100026: Ext_CH_Wall_Window_01_01
+    100028: ExtInt_DoorBoarder_01_02
+    100030: ExtInt_DoorFrame_01_03
+    100032: Glass.010
+    100034: Int_CH_01_Entrance_02
+    100036: Int_CH_Wall_Window_01_01
+    100038: Pan.003
+    100040: Pan.005
+    100042: Rail_CH_01_01
+    100044: WindowFrame_CH_01_03
+    100046: WindowPan.004
+    400000: //RootNode
+    400002: Door.L.001
+    400004: Door.R.001
+    400006: Ext_CH_01_Entrance_02
+    400008: Ext_CH__Platform_01_01
+    400010: Ext_CH__Platform_01_03
+    400012: Ext_CH_Platform_01_02
+    400014: Ext_CH_Platform_Stairs_01_01
+    400016: Ext_CH_Platform_Stairs_01_02
+    400018: Ext_CH_Platform_Stairs_01_03
+    400020: Ext_CH_Roof_01_01
+    400022: Ext_CH_Roof_01_02
+    400024: Ext_CH_Roof_01_03
+    400026: Ext_CH_Wall_Window_01_01
+    400028: ExtInt_DoorBoarder_01_02
+    400030: ExtInt_DoorFrame_01_03
+    400032: Glass.010
+    400034: Int_CH_01_Entrance_02
+    400036: Int_CH_Wall_Window_01_01
+    400038: Pan.003
+    400040: Pan.005
+    400042: Rail_CH_01_01
+    400044: WindowFrame_CH_01_03
+    400046: WindowPan.004
+    2100000: No Name
+    2300000: Door.L.001
+    2300002: Door.R.001
+    2300004: Ext_CH_01_Entrance_02
+    2300006: Ext_CH__Platform_01_01
+    2300008: Ext_CH__Platform_01_03
+    2300010: Ext_CH_Platform_01_02
+    2300012: Ext_CH_Platform_Stairs_01_01
+    2300014: Ext_CH_Platform_Stairs_01_02
+    2300016: Ext_CH_Platform_Stairs_01_03
+    2300018: Ext_CH_Roof_01_01
+    2300020: Ext_CH_Roof_01_02
+    2300022: Ext_CH_Roof_01_03
+    2300024: Ext_CH_Wall_Window_01_01
+    2300026: ExtInt_DoorBoarder_01_02
+    2300028: ExtInt_DoorFrame_01_03
+    2300030: Glass.010
+    2300032: Int_CH_01_Entrance_02
+    2300034: Int_CH_Wall_Window_01_01
+    2300036: Pan.003
+    2300038: Pan.005
+    2300040: Rail_CH_01_01
+    2300042: WindowFrame_CH_01_03
+    2300044: WindowPan.004
+    3300000: Door.L.001
+    3300002: Door.R.001
+    3300004: Ext_CH_01_Entrance_02
+    3300006: Ext_CH__Platform_01_01
+    3300008: Ext_CH__Platform_01_03
+    3300010: Ext_CH_Platform_01_02
+    3300012: Ext_CH_Platform_Stairs_01_01
+    3300014: Ext_CH_Platform_Stairs_01_02
+    3300016: Ext_CH_Platform_Stairs_01_03
+    3300018: Ext_CH_Roof_01_01
+    3300020: Ext_CH_Roof_01_02
+    3300022: Ext_CH_Roof_01_03
+    3300024: Ext_CH_Wall_Window_01_01
+    3300026: ExtInt_DoorBoarder_01_02
+    3300028: ExtInt_DoorFrame_01_03
+    3300030: Glass.010
+    3300032: Int_CH_01_Entrance_02
+    3300034: Int_CH_Wall_Window_01_01
+    3300036: Pan.003
+    3300038: Pan.005
+    3300040: Rail_CH_01_01
+    3300042: WindowFrame_CH_01_03
+    3300044: WindowPan.004
+    4300000: Ext_CH_Roof_01_01
+    4300002: Ext_CH_Platform_Stairs_01_02
+    4300004: Ext_CH_Platform_Stairs_01_03
+    4300006: Rail_CH_01_01
+    4300008: ExtInt_DoorFrame_01_03
+    4300010: Door.L.001
+    4300012: Pan.003
+    4300014: Door.R.001
+    4300016: Pan.005
+    4300018: Ext_CH__Platform_01_01
+    4300020: Ext_CH_Platform_Stairs_01_01
+    4300022: ExtInt_DoorBoarder_01_02
+    4300024: WindowFrame_CH_01_03
+    4300026: WindowPan.004
+    4300028: Glass.010
+    4300030: Ext_CH_Wall_Window_01_01
+    4300032: Int_CH_Wall_Window_01_01
+    4300034: Ext_CH_01_Entrance_02
+    4300036: Int_CH_01_Entrance_02
+    4300038: Ext_CH__Platform_01_03
+    4300040: Ext_CH_Platform_01_02
+    4300042: Ext_CH_Roof_01_02
+    4300044: Ext_CH_Roof_01_03
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
